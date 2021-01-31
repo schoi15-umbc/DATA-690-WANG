@@ -6,7 +6,7 @@
 
 #### Chapter 1. Preliminaries
 
-** *Essential Python Libraries **
+** Essential Python Libraries **
 1. NumPy (Numerical Python)
 - Provides the data structures, algorithms, and library glue needed for most scientific applications involving numerical data in python.
 Contains 
@@ -31,28 +31,47 @@ Series, a one-dimensional labeled array object are most used in pandas.
 - A collection of packages addressing several different standard problem domains in scientific computing.
 - Examples:
 **scipy.integrate** : Numerical integration routines and differential equation solvers.
+
 **scipy.linalg** : Linear algebra routines and matrix decompositions extending beyond those provided
 in *numpy.linalg*.
+
 **scipy.optimize** : Function optimizers (minimizers) and root finding algorithms.
+
 **scipy.signal** : Signal processing tools.
+
 **scipy.sparse**: Sparse matrices and sparse linear system solvers.
+
 **scipy.special**: Wrapper around SPECFUN, a Fortran library implementing many common mathematical functions, such as the gamma function.
+
 **scipy.stats**: Standard continuous and discrete probability distributions (density functions, samplers, continuous distribution functions), various statistical tests, and more descriptive statistics
+
 6. scikit-learn
 - The premier general-purpose machine learning toolkit for Python programmers. 
 Model examples: 
+
 **Classification** : SVM, nearest neighbors, random forest, logistic regression, etc.
+
 **Regression** : Lasso, ridge regression, etc.
+
 **Clustering** : k-means, spectral clustering, etc.
+
 **Dimensionality reduction** : PCA, feature selection, matrix factorization, etc.
+
 **Model selection** : Grid search, cross-validation, metrics
+
 **Preprocessing** : Feature extraction, normalization
+
 7. statmodels
 - A statistical analysis package that contains algorithms for classical (primarily frequentist) statistics and econometrics. Submodules example: 
+
 **Regression models** : Linear regression, generalized linear models, robust linear models, linear mixed effects models, etc.
+
 **Analysis of variance (ANOVA) **
+
 **Time series analysis** : AR, ARMA, ARIMA, VAR, and other models.
+
 **Nonparametric methods** : Kernel density estimation, kernel regression.
+
 **Visualization of statistical model results**
 
 
