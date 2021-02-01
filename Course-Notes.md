@@ -1,7 +1,10 @@
 ### Notes from Lecture 1
 
 1. Using Deepnote
--> Cloud to use coding; allows users to share and work on a notebook with many people at once.
+-> Deepnote: Cloud to use coding; allows users to share and work on a notebook with many people at once. You can write codes and markdowns. 
+- You can use simple codes to calculate.
+- Download file to upload on github
+
 
 
 ### Chapter 1. Preliminaries
