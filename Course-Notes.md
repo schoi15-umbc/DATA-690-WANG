@@ -77,3 +77,43 @@ Model examples:
 ####
 
 ### Chapter 2. Python Language Basics, IPython, and Jupyter Notebooks
+
+1.	The Python Interpreter
+-	The Python interpreter runs a program by executing one statement at a time.
+-	Type exit() or press Ctrl-D to exit Python interpreter and return to the command prompt.
+
+2.	IPython Basics
+-	Ipython shell can be launched on the command like similarly to launching the regular Python interpreter.
+-	Arbitrary Python statements can be executed by typing them in and pressing Return (or Enter).
+-	Jupyter project is a type of interactive document for code, text, data visualizations, and other output. It interacts with kernels and uses the IPython system for its underlying behavior.
+-	Tab Completion helps user to search the namespace for any variables matching the characters the user typed. 
+-	The question mark before or after a variable will display general information about the object which is called object introspection.
+-	The %run command runs any file as a Python program inside the environment of your IPython session.
+-	The %load command imports a script into a code cell.
+-	Keyboard Interrupt will be ran when Ctrl-C is pressed while a code is running. 
+-	%paste takes whatever text is in the clipboard and executes it as a single block in the shell; %cpaste is similar, except that it gives you a special prompt for pasting code into.
+-	Magic commands are designed to facilitate common tasks and enable you to easily control the behavior of the IPython system. They can be viewed as command-line programs to be run within the IPython system.
+
+3.	Python Language Basics
+-	The Python language design is distinguished by its emphasis on readability, simplicity, and explicitness. It uses indention rather than braces.
+-	Every number, string, data structure, function, class, module, and so on exists in the Python interpreter in its own “box,” which is referred to as a Python object.
+-	Any text preceded by the hash mark (pound sign) # is ignored by the Python interpreter. This is often used to add comments to code.
+-	You call functions using parentheses and passing zero or more arguments, optionally assigning the returned value to a variable.
+-	When assigning a variable (or name) in Python, you are creating a reference to the object on the righthand side of the equals sign.
+-	In contrast with many compiled languages, such as Java and C++, object references in Python have no type associated with them.
+-	Objects in Python typically have both attributes (other Python objects stored “inside” the object) and methods (functions associated with an object that can have access to the object’s internal data).
+-	In Python a module is simply a file with the .py extension containing Python code. We can import different variable names by using keywords. 
+-	Most objects in Python, such as lists, dicts, NumPy arrays, and most user-defined types (classes), are mutable. This means that the object or values that they contain can be modified.
+-	The primary Python types for numbers are int and float. An int can store arbitrarily large numbers.
+-	String literals are written by using single quotes or double quotes. 
+-	Boolean values are written as True of False. 
+-	The str, bool, int, and float types are also functioning that can be used to cast values to those types.
+-	None is the Python null value type. It is also a common default value for function arguments. 
+-	The built-in Python datetime module provides datetime, date, and time types.
+-	The if statement is one of the most well-known control flow statement types. It checks a condition that, if True, evaluates the code in the block that follows. Also, it can be optionally followed by one or more elif blocks and a catchall else block if all of the conditions are False. If any of the conditions is True, no further elif or else blocks will be reached.
+-	for loops are for iterating over a collection (like a list or tuple) or an iterater.
+-	A while loop specifies a condition and a block of code that is to be executed until the condition evaluates to False or the loop is explicitly ended with break.
+-	pass is the “no-op” statement in Python. It can be used in blocks where no action is to be taken (or as a placeholder for code not yet implemented).
+-	The range function returns an iterator that yields a sequence of evenly spaced integers.
+-	A ternary expression in Python allows you to combine an if-else block that produces a value into a single line or expression.
+
