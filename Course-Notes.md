@@ -3,8 +3,23 @@
 1. Using Deepnote
 -> Deepnote: Cloud to use coding; allows users to share and work on a notebook with many people at once. You can write codes and markdowns. 
 - You can use simple codes to calculate.
-- Download file to upload on github
+2. Using Github
+- Download ipybn file to upload on github.
+- Create repositories for class and projects. 
+- Include creater and date for files.
 
+3. Coding
+- Writing simple codes and running them such as 'print'. 
+-  Finding types (True, False, Bool, etc).
+-  You can use numerical operations and string operations in python.
+-  Conditional: if/ elif/else
+- Loop: for (iterate through a collection)
+- Loop: while (a condition is ture)
+-Nested loop
+-Leaving the loop: break, continue
+- intinite loop: while True
+exception handling: try/except
+- In range, you put where you start, stop, and how many steps to count. 
 
 
 ### Chapter 1. Preliminaries
