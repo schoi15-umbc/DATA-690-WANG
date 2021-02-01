@@ -1,12 +1,12 @@
-#### Notes from Lecture 1
+### Notes from Lecture 1
 
 1. Using Deepnote
 -> Cloud to use coding; allows users to share and work on a notebook with many people at once.
 
 
-#### Chapter 1. Preliminaries
+### Chapter 1. Preliminaries
 
-** Essential Python Libraries **
+#### Essential Python Libraries 
 1. NumPy (Numerical Python)
 - Provides the data structures, algorithms, and library glue needed for most scientific applications involving numerical data in python.
 Contains 
@@ -74,5 +74,6 @@ Model examples:
 
 **Visualization of statistical model results**
 
+####
 
-#### Chapter 2. Python Language Basics, IPython, and Jupyter Notebooks
+### Chapter 2. Python Language Basics, IPython, and Jupyter Notebooks
