@@ -78,11 +78,11 @@ Model examples:
 
 ### Chapter 2. Python Language Basics, IPython, and Jupyter Notebooks
 
-1.	The Python Interpreter
+**1.	The Python Interpreter**
 -	The Python interpreter runs a program by executing one statement at a time.
 -	Type exit() or press Ctrl-D to exit Python interpreter and return to the command prompt.
 
-2.	IPython Basics
+**2.	IPython Basics**
 -	Ipython shell can be launched on the command like similarly to launching the regular Python interpreter.
 -	Arbitrary Python statements can be executed by typing them in and pressing Return (or Enter).
 -	Jupyter project is a type of interactive document for code, text, data visualizations, and other output. It interacts with kernels and uses the IPython system for its underlying behavior.
@@ -94,7 +94,7 @@ Model examples:
 -	%paste takes whatever text is in the clipboard and executes it as a single block in the shell; %cpaste is similar, except that it gives you a special prompt for pasting code into.
 -	Magic commands are designed to facilitate common tasks and enable you to easily control the behavior of the IPython system. They can be viewed as command-line programs to be run within the IPython system.
 
-3.	Python Language Basics
+**3.	Python Language Basics**
 -	The Python language design is distinguished by its emphasis on readability, simplicity, and explicitness. It uses indention rather than braces.
 -	Every number, string, data structure, function, class, module, and so on exists in the Python interpreter in its own “box,” which is referred to as a Python object.
 -	Any text preceded by the hash mark (pound sign) # is ignored by the Python interpreter. This is often used to add comments to code.
