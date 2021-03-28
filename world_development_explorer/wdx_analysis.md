@@ -56,11 +56,14 @@ depletion and degradation of natural resources. Data are in current U.S. dollars
 
 ![GPD2015](https://user-images.githubusercontent.com/70929605/112765125-b3136500-8fd9-11eb-93ca-b91eb8e5f91b.png)
 
-### * The chart shows that the land size does not always correlate to the GDP per capita of the county. We can see that even though some countries are much smaller in size, they have a higher GDP than the countries that are larger in the land area.
+ * The chart shows that the land size does not always correlate to the GDP per capita of the county. We can see that even though some countries are much smaller in size, they have a higher GDP than the countries that are larger in the land area.
 
-### * The land area size does not always reflect how much renewable energy the county consumes. The chart shows that some large countries have the lowest renewable energy consumption rate, but also some small countries have lower rate than the Latin America and Caribbean Region. Although it is not 100%, I can make assumptions from the chart that the smaller countries may tend to consume more renewable energy because the highest consuming country has a small land area, and the smaller counries are not ranked lowest. 
+ * The land area size does not always reflect how much renewable energy the county consumes. The chart shows that some large countries have the lowest renewable energy consumption rate, but also some small countries have lower rate than the Latin America and Caribbean Region. 
 
-### * 
+ * Kenya significantly has the highest renewable renergy consumption rate. Increases from 2010-2012 but decreases from 2012-2015.
+
+* In 2010 UK has the lowest renewable energy consumption rate but by 2015 USA becomes the lowest even though they have the highest GDP per capita.
+
 
 
 
@@ -70,3 +73,12 @@ depletion and degradation of natural resources. Data are in current U.S. dollars
 **Average Years of total schooling age15+ per region**
 ![schoolingbar](https://user-images.githubusercontent.com/70929605/112765796-d25fc180-8fdc-11eb-8ac7-0d76adf87e36.png)
 
+* Although Kenya has the highest renewable energy consumption rate, they have the lowest average years of total schooling. 
+
+* USA has the highest rate of education.
+
+* The scatter plot some-what shows that the more education, less of renewable energy consumption and less education, more renewable energy consumption. 
+
+### Conclusion
+
+It is hard to determine everything just by the indicators and countries compared in the article. 
