@@ -52,7 +52,7 @@ depletion and degradation of natural resources. Data are in current U.S. dollars
 
 
 ### **How does Renewable Energy Consumption and Education relate in different countires? Buble size shows land size**
-![Schooling](https://user-images.githubusercontent.com/70929605/112765145-d4745100-8fd9-11eb-8fd8-860d3e020e53.png)
+![schoolingoverall](https://user-images.githubusercontent.com/70929605/112765866-3aaea300-8fdd-11eb-82e8-8d5248b1da36.png)
 
 **Average Years of total schooling age15+ per region**
 ![schoolingbar](https://user-images.githubusercontent.com/70929605/112765796-d25fc180-8fdc-11eb-8ac7-0d76adf87e36.png)
