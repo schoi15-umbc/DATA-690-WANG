@@ -29,3 +29,27 @@ included in the value of the products. It is calculated without making deduction
 depletion and degradation of natural resources. Data are in current U.S. dollars.
 
 </pre>
+
+### **How does Renewable Energy Consumption and GDP per capita relate in different countires over the time period 2010 - 2015? Buble size shows land size**
+
+**2010**
+![GDP2010](https://user-images.githubusercontent.com/70929605/112765063-60d24400-8fd9-11eb-907d-69e1df133f7d.png)
+
+**2011**
+![GDP 2011](https://user-images.githubusercontent.com/70929605/112765080-75164100-8fd9-11eb-925d-bf7ce9c8e75b.png)
+
+**2012**
+![GDP2012](https://user-images.githubusercontent.com/70929605/112765082-7e071280-8fd9-11eb-84a2-1951c7760871.png)
+
+**2013**
+![GDP2013](https://user-images.githubusercontent.com/70929605/112765108-a4c54900-8fd9-11eb-92ff-5f193b2901a5.png)
+
+**2014**
+![GDP2014](https://user-images.githubusercontent.com/70929605/112765118-adb61a80-8fd9-11eb-8b32-82a50cbe1ded.png)
+
+**2015**
+![GPD2015](https://user-images.githubusercontent.com/70929605/112765125-b3136500-8fd9-11eb-93ca-b91eb8e5f91b.png)
+
+
+### **How does Renewable Energy Consumption and Education relate in different countires? Buble size shows land size**
+![Schooling](https://user-images.githubusercontent.com/70929605/112765145-d4745100-8fd9-11eb-8fd8-860d3e020e53.png)
