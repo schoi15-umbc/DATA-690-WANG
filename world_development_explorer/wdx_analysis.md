@@ -34,27 +34,27 @@ depletion and degradation of natural resources. Data are in current U.S. dollars
 
 ### **2010**
 
-![GDP2010](https://user-images.githubusercontent.com/70929605/112765063-60d24400-8fd9-11eb-907d-69e1df133f7d.png)
+![2010](https://user-images.githubusercontent.com/70929605/112766958-3769e600-8fe2-11eb-9ae6-4ea3f3124134.png)
 
 ### **2011**
 
-![GDP 2011](https://user-images.githubusercontent.com/70929605/112765080-75164100-8fd9-11eb-925d-bf7ce9c8e75b.png)
+![2011](https://user-images.githubusercontent.com/70929605/112766969-3e90f400-8fe2-11eb-99bf-0bcd87fc81a0.png)
 
 ### **2012**
 
-![GDP2012](https://user-images.githubusercontent.com/70929605/112765082-7e071280-8fd9-11eb-84a2-1951c7760871.png)
+![2012](https://user-images.githubusercontent.com/70929605/112766970-3fc22100-8fe2-11eb-87b3-fcf771fcbfe4.png)
 
 ### **2013**
 
-![GDP2013](https://user-images.githubusercontent.com/70929605/112765108-a4c54900-8fd9-11eb-92ff-5f193b2901a5.png)
+![2013](https://user-images.githubusercontent.com/70929605/112766973-418be480-8fe2-11eb-8126-870ca6841ee0.png)
 
 ### **2014**
 
-![GDP2014](https://user-images.githubusercontent.com/70929605/112765118-adb61a80-8fd9-11eb-8b32-82a50cbe1ded.png)
+![2014](https://user-images.githubusercontent.com/70929605/112766976-4355a800-8fe2-11eb-8c55-71b871433a32.png)
 
 ### **2015**
 
-![GPD2015](https://user-images.githubusercontent.com/70929605/112765125-b3136500-8fd9-11eb-93ca-b91eb8e5f91b.png)
+![2015](https://user-images.githubusercontent.com/70929605/112766977-43ee3e80-8fe2-11eb-886a-df0819e5987b.png)
 
  * The chart shows that the land size does not always correlate to the GDP per capita of the county. We can see that even though some countries are much smaller in size, they have a higher GDP than the countries that are larger in the land area.
 
@@ -81,4 +81,14 @@ depletion and degradation of natural resources. Data are in current U.S. dollars
 
 ### Conclusion
 
-It is hard to determine everything just by the indicators and countries compared in the article. 
+It is hard to determine everything just by the indicators and countries compared in the article. We cannot say for 100% that one indicator is a definite factor for renewable energy consumption rate. However, we were able to find out that 
+* The land area (size) does not have high correlating factor to renewable energy consumption rate.
+
+* Although not definite, the charts show that the countries with higher GDP tend to have lower renewable energy consumption rate.
+
+* The chart shows that countries with higher education rate tends to have lower renewable energy consumption rate.
+
+* Most of the countries had a lower renewable energy consumption rate by 2015 when compared to 2010. 
+
+For further studies, it would help to compare more countries with the same indicators to see if the factors have a high correlation to each other. Also, it would be interesting to find what other factors influence the renewable energy consumption rate.
+
