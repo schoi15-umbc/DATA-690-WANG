@@ -56,7 +56,11 @@ depletion and degradation of natural resources. Data are in current U.S. dollars
 
 ![GPD2015](https://user-images.githubusercontent.com/70929605/112765125-b3136500-8fd9-11eb-93ca-b91eb8e5f91b.png)
 
-###
+### * The chart shows that the land size does not always correlate to the GDP per capita of the county. We can see that even though some countries are much smaller in size, they have a higher GDP than the countries that are larger in the land area.
+
+### * The land area size does not always reflect how much renewable energy the county consumes. The chart shows that some large countries have the lowest renewable energy consumption rate, but also some small countries have lower rate than the Latin America and Caribbean Region. Although it is not 100%, I can make assumptions from the chart that the smaller countries may tend to consume more renewable energy because the highest consuming country has a small land area, and the smaller counries are not ranked lowest. 
+
+### * 
 
 
 
