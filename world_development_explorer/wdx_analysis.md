@@ -1,8 +1,8 @@
-# **Does GDP and Education Affect the Consumption of Renewable Energy?**
+# **Does GDP and Education Affect the Consumption of Renewable Energy? Comparing Different Countries**
 
 ![2015-04-19-IGEL-banner-art](https://user-images.githubusercontent.com/70929605/112764141-45fdd080-8fd5-11eb-9932-b3d4a3c27fbb.jpg)
 
-Author: Sooyeon Choi
+**Author: Sooyeon Choi**
 
 Science and technology are advancing every day. Due to the inventions and improvements, our daily life has become much more convenient and time efficient. Everything from what we eat, wear, live, to our work life and entertainment, technology is embedded into the tools we use. This is great. However, in order to have every tool to work for us, the tools need energy. It consumes different types of energy to make our life convenient, and at the same time, it is destroying our environment. The earth’s pollution is getting out of hand and significantly contributing to climate change. One big thing we can do to make effort of reducing pollution is to use less of nonrenewable energy resources such as coal, nuclear oil, and natural gas, and start using more of renewable energy such as solar, wing, water, biomass, and geothermal. In this article, we will be comparing several countries’ consumption of renewable energy by the country’s land size with GDP per capita and Education. The countries were selected in diverse area and size. 
 
@@ -30,28 +30,37 @@ depletion and degradation of natural resources. Data are in current U.S. dollars
 
 </pre>
 
-### **How does Renewable Energy Consumption and GDP per capita relate in different countires over the time period 2010 - 2015? Buble size shows land size**
+## **1. How does Renewable Energy Consumption and GDP per capita relate in different countires over the time period 2010 - 2015? Buble size shows land size**
 
-**2010**
+### **2010**
+
 ![GDP2010](https://user-images.githubusercontent.com/70929605/112765063-60d24400-8fd9-11eb-907d-69e1df133f7d.png)
 
-**2011**
+### **2011**
+
 ![GDP 2011](https://user-images.githubusercontent.com/70929605/112765080-75164100-8fd9-11eb-925d-bf7ce9c8e75b.png)
 
-**2012**
+### **2012**
+
 ![GDP2012](https://user-images.githubusercontent.com/70929605/112765082-7e071280-8fd9-11eb-84a2-1951c7760871.png)
 
-**2013**
+### **2013**
+
 ![GDP2013](https://user-images.githubusercontent.com/70929605/112765108-a4c54900-8fd9-11eb-92ff-5f193b2901a5.png)
 
-**2014**
+### **2014**
+
 ![GDP2014](https://user-images.githubusercontent.com/70929605/112765118-adb61a80-8fd9-11eb-8b32-82a50cbe1ded.png)
 
-**2015**
+### **2015**
+
 ![GPD2015](https://user-images.githubusercontent.com/70929605/112765125-b3136500-8fd9-11eb-93ca-b91eb8e5f91b.png)
 
+###
 
-### **How does Renewable Energy Consumption and Education relate in different countires? Buble size shows land size**
+
+
+## **2. How does Renewable Energy Consumption and Education relate in different countires? Buble size shows land size**
 ![schoolingoverall](https://user-images.githubusercontent.com/70929605/112765866-3aaea300-8fdd-11eb-82e8-8d5248b1da36.png)
 
 **Average Years of total schooling age15+ per region**
