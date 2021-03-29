@@ -32,29 +32,11 @@ depletion and degradation of natural resources. Data are in current U.S. dollars
 
 ## **1. How does Renewable Energy Consumption and GDP per capita relate in different countires over the time period 2010 - 2015? Buble size shows land size**
 
-### **2010**
+![GDP_YEAR](https://user-images.githubusercontent.com/70929605/112778638-f6d69080-9012-11eb-85cc-a9d283d751a0.png)
+![REC_YEAR](https://user-images.githubusercontent.com/70929605/112778758-34d3b480-9013-11eb-9b27-7ace5bd450f8.png)
+![GDP](https://user-images.githubusercontent.com/70929605/112778642-f807bd80-9012-11eb-9b01-43c7870b0674.png)
+![Land area](https://user-images.githubusercontent.com/70929605/112778644-f8a05400-9012-11eb-85f4-79cd21ba8208.png)
 
-![2010](https://user-images.githubusercontent.com/70929605/112766958-3769e600-8fe2-11eb-9ae6-4ea3f3124134.png)
-
-### **2011**
-
-![2011](https://user-images.githubusercontent.com/70929605/112766969-3e90f400-8fe2-11eb-99bf-0bcd87fc81a0.png)
-
-### **2012**
-
-![2012](https://user-images.githubusercontent.com/70929605/112766970-3fc22100-8fe2-11eb-87b3-fcf771fcbfe4.png)
-
-### **2013**
-
-![2013](https://user-images.githubusercontent.com/70929605/112766973-418be480-8fe2-11eb-8126-870ca6841ee0.png)
-
-### **2014**
-
-![2014](https://user-images.githubusercontent.com/70929605/112766976-4355a800-8fe2-11eb-8c55-71b871433a32.png)
-
-### **2015**
-
-![2015](https://user-images.githubusercontent.com/70929605/112766977-43ee3e80-8fe2-11eb-886a-df0819e5987b.png)
 
  * The chart shows that the land size does not always correlate to the GDP per capita of the county. We can see that even though some countries are much smaller in size, they have a higher GDP than the countries that are larger in the land area.
 
@@ -68,10 +50,10 @@ depletion and degradation of natural resources. Data are in current U.S. dollars
 
 
 ## **2. How does Renewable Energy Consumption and Education relate in different countires? Buble size shows land size**
-![schoolingoverall](https://user-images.githubusercontent.com/70929605/112765866-3aaea300-8fdd-11eb-82e8-8d5248b1da36.png)
+![REC_school](https://user-images.githubusercontent.com/70929605/112778745-27b6c580-9013-11eb-9d0e-6e44788f4007.png)
 
-**Average Years of total schooling age15+ per region**
-![schoolingbar](https://user-images.githubusercontent.com/70929605/112765796-d25fc180-8fdc-11eb-8ac7-0d76adf87e36.png)
+**Average Years of total schooling age15+ per Country**
+![avg school](https://user-images.githubusercontent.com/70929605/112778694-12419b80-9013-11eb-93dd-157c95fcec7d.png)
 
 * Although Kenya has the highest renewable energy consumption rate, they have the lowest average years of total schooling. 
 
