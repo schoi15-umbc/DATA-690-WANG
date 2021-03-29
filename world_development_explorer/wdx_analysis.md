@@ -32,9 +32,10 @@ depletion and degradation of natural resources. Data are in current U.S. dollars
 
 ## **1. How does Renewable Energy Consumption and GDP per capita relate in different countires over the time period 2010 - 2015? Buble size shows land size**
 
-![GDP_YEAR](https://user-images.githubusercontent.com/70929605/112778638-f6d69080-9012-11eb-85cc-a9d283d751a0.png)
+### GDP
+![GDP_Year](https://user-images.githubusercontent.com/70929605/112779024-d5c26f80-9013-11eb-814c-c3f527439c78.png)
 ![REC_YEAR](https://user-images.githubusercontent.com/70929605/112778758-34d3b480-9013-11eb-9b27-7ace5bd450f8.png)
-![GDP](https://user-images.githubusercontent.com/70929605/112778642-f807bd80-9012-11eb-9b01-43c7870b0674.png)
+![GDP](https://user-images.githubusercontent.com/70929605/112779027-d65b0600-9013-11eb-9584-06dd3e8e9680.png)
 ![Land area](https://user-images.githubusercontent.com/70929605/112778644-f8a05400-9012-11eb-85f4-79cd21ba8208.png)
 
 
