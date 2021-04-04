@@ -1,0 +1,55 @@
+,Year,EG.FEC.RNEW.ZS,AG.LND.TOTL.K2,NY.GDP.PCAP.CD,Country Code,Country Name,Region,Income Group,Lending Type
+0,2010,47.0066615686,8358140.0,11286.2430162457,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+1,2011,45.4685505272,8358140.0,13245.6124995448,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+2,2012,43.6207952976,8358140.0,12370.0242007149,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+3,2013,42.4478425401,8358140.0,12300.3248822758,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+4,2014,41.8418787194,8358140.0,12112.5882059697,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+5,2015,43.7903891972,8358140.0,8814.0009868126,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+6,2010,12.8843103069,9424700.7,4550.4531077571,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+7,2011,11.6957969854,9424700.9,5618.1322671195,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+8,2012,11.9685670286,9424700.9,6316.9183176022,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+9,2013,11.8381669001,9424701.3,7050.6462712429,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+10,2014,12.2238230066,9424701.3,7678.5994858748,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+11,2015,12.4133525699,9424701.4,8066.9426349356,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+12,2010,42.3112526906,51060.0,8141.9131267546,CRI,Costa Rica,Latin America & Caribbean ,Upper middle income,IBRD
+13,2011,40.5021237174,51060.0,9121.9325176319,CRI,Costa Rica,Latin America & Caribbean ,Upper middle income,IBRD
+14,2012,38.6238545865,51060.0,9913.2099585237,CRI,Costa Rica,Latin America & Caribbean ,Upper middle income,IBRD
+15,2013,38.0748418166,51060.0,10490.0813312933,CRI,Costa Rica,Latin America & Caribbean ,Upper middle income,IBRD
+16,2014,37.8425411278,51060.0,10547.1518593556,CRI,Costa Rica,Latin America & Caribbean ,Upper middle income,IBRD
+17,2015,38.7334138822,51060.0,11299.1355423011,CRI,Costa Rica,Latin America & Caribbean ,Upper middle income,IBRD
+18,2010,39.4815087312,2973190.0,1357.5637191326,IND,India,South Asia,Lower middle income,IBRD
+19,2011,38.9317402139,2973190.0,1458.1035268618,IND,India,South Asia,Lower middle income,IBRD
+20,2012,38.3908901523,2973190.0,1443.8795293904,IND,India,South Asia,Lower middle income,IBRD
+21,2013,37.8498411785,2973190.0,1449.6059123387,IND,India,South Asia,Lower middle income,IBRD
+22,2014,36.6518378564,2973190.0,1573.8814921105,IND,India,South Asia,Lower middle income,IBRD
+23,2015,36.0212225653,2973190.0,1605.6054335549,IND,India,South Asia,Lower middle income,IBRD
+24,2010,76.2731232275,569140.0,951.6879611169,KEN,Kenya,Sub-Saharan Africa ,Lower middle income,Blend
+25,2011,77.0836394,569140.0,971.6333290482,KEN,Kenya,Sub-Saharan Africa ,Lower middle income,Blend
+26,2012,78.4976195107,569140.0,1136.8714057178,KEN,Kenya,Sub-Saharan Africa ,Lower middle income,Blend
+27,2013,77.1367463126,569140.0,1210.3880140819,KEN,Kenya,Sub-Saharan Africa ,Lower middle income,Blend
+28,2014,75.5181685983,569140.0,1315.8045353724,KEN,Kenya,Sub-Saharan Africa ,Lower middle income,Blend
+29,2015,72.6627525104,569140.0,1336.883348856,KEN,Kenya,Sub-Saharan Africa ,Lower middle income,Blend
+30,2010,9.3599775433,1943950.0,9271.3982332464,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+31,2011,9.0664722349,1943950.0,10203.4208543113,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+32,2012,8.9648242076,1943950.0,10241.7279153745,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+33,2013,9.2313634566,1943950.0,10725.1833166036,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+34,2014,9.7584624232,1943950.0,10928.9168262489,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+35,2015,9.215213455,1943950.0,9616.6450056895,MEX,Mexico,Latin America & Caribbean ,Upper middle income,IBRD
+36,2010,31.3226917275,263310.0,33700.126039246,NZL,New Zealand,East Asia & Pacific,High income,Not classified
+37,2011,32.1281911025,263310.0,38437.543157275,NZL,New Zealand,East Asia & Pacific,High income,Not classified
+38,2012,30.4748415391,263310.0,39982.7543013783,NZL,New Zealand,East Asia & Pacific,High income,Not classified
+39,2013,30.0058728287,263310.0,42962.9882149803,NZL,New Zealand,East Asia & Pacific,High income,Not classified
+40,2014,30.3226371358,263310.0,44553.2822108385,NZL,New Zealand,East Asia & Pacific,High income,Not classified
+41,2015,30.7891755545,263310.0,38615.9951849093,NZL,New Zealand,East Asia & Pacific,High income,Not classified
+42,2010,3.6389182619,241930.0,39435.8399018505,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+43,2011,4.4011186214,241930.0,42038.572250193,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+44,2012,4.7512576185,241930.0,42462.771568145,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+45,2013,6.0157809493,241930.0,43444.533001954,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+46,2014,7.3952204555,241930.0,47425.6076805194,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+47,2015,8.7116855744,241930.0,44974.8318771782,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+48,2010,7.5051720554,9147420.0,48467.5157769259,USA,United States,North America,High income,Not classified
+49,2011,8.1644516462,9147420.0,49886.8181094923,USA,United States,North America,High income,Not classified
+50,2012,8.4814504076,9147420.0,51610.6052783379,USA,United States,North America,High income,Not classified
+51,2013,8.7132615728,9147420.0,53117.6678498178,USA,United States,North America,High income,Not classified
+52,2014,8.7543089544,9147420.0,55064.7445483427,USA,United States,North America,High income,Not classified
+53,2015,8.7169358671,9147420.0,56839.3817742317,USA,United States,North America,High income,Not classified
